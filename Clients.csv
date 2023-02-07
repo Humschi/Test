@@ -1,4 +1,4 @@
-ClientName,AADTenantId,lWorkspaceName,WorkspaceId,WorkspaceLink
-Durst,3b002d85-b2f9-4e42-99d9-5cc3454e971a,azbasisloganalytics,ee336202-49fa-4a84-8342-36c304428b43,"```<a href=""https://portal.azure.com/@konvertocsp.onmicrosoft.com/#blade/Microsoft_Azure_Security_Insights/MainMenuBlade/subscriptionId/861173ae-0740-435e-9087-6f8dea3c04ee/resourceGroup/basis-sentinel/workspaceName/azbasisloganalytics"">Workspace</a>```"
-RVS,e36b47ae-71c9-4cbd-91da-ef23a72a0c25,lgAADWorkspace,f3d21386-66f1-44d7-9e7f-39f52a41c249,"```<a href=""https://portal.azure.com/@konvertocsp.onmicrosoft.com/#blade/Microsoft_Azure_Security_Insights/MainMenuBlade/subscriptionId/912f0252-bef2-4d26-aed7-d9a675f27d74/resourceGroup/rg_aad/workspaceName/lgaadworkspace"">Workspace</a>```"
-Konverto,dde8af35-59d3-4550-9c4e-885bfad70430,loganalytics-run365aad,b8b4d1f0-6ee6-4a0d-888f-4ca3b4ef2926,"```<a href=""https://portal.azure.com/@konvertocsp.onmicrosoft.com/#blade/Microsoft_Azure_Security_Insights/MainMenuBlade/subscriptionId/3bff8901-f33b-428f-b1c6-02767adcd40c/resourceGroup/rg_run365aad/workspaceName/loganalytics-run365aad"">Workspace</a>```"
+ClientName,AADTenantId,lWorkspaceName,WorkspaceId
+Durst,3b002d85-b2f9-4e42-99d9-5cc3454e971a,azbasisloganalytics,ee336202-49fa-4a84-8342-36c304428b43
+RVS,e36b47ae-71c9-4cbd-91da-ef23a72a0c25,lgAADWorkspace,f3d21386-66f1-44d7-9e7f-39f52a41c249
+Konverto,dde8af35-59d3-4550-9c4e-885bfad70430,loganalytics-run365aad,b8b4d1f0-6ee6-4a0d-888f-4ca3b4ef2926
